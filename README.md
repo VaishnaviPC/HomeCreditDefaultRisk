@@ -8,6 +8,7 @@ Doing so will ensure that clients capable of repayment are not rejected and that
 **Solution :**
 
 Building a model to predict how capable each applicant is of repaying a loan, so that loan sanctioning is done only for the applicants who are likely to repay the loan.
+
 **Mapping to a Machine Learning Problem:**
 
 Since we have two classes in the target label, we will pose this problem as a Binary classification problem.
